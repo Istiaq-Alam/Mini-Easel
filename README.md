@@ -11,7 +11,7 @@ Graphics Work Tracking for remote job
 # working-issues
 # daily-work-report
 
-# Training-01 : 
+# YSP Proccedure : 
 1. Pickup Order id
 2. Work Assign to me 
 3. Auto Download Proof
